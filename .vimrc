@@ -67,6 +67,9 @@ Plugin 'ekalinin/dockerfile.vim'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'tclem/vim-arduino'
 Plugin 'scrooloose/nerdcommenter'
+Plugin 'tellijo/vim-react-native-snippets'
+Plugin 'sirver/ultisnips'
+Plugin 'vhda/verilog_systemverilog.vim'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
